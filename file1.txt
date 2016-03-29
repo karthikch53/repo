@@ -1,0 +1,4 @@
+@GET
+public Response 1stCommit(){	
+	return Response.ok("ping successfull....!").build();
+}
