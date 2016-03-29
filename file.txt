@@ -1,0 +1,4 @@
+@GET
+public Response ping(){	
+	return Response.ok("ping successfull....!").build();
+}
