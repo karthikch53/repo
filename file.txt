@@ -2,11 +2,5 @@
 public Response ping(){
 	//	2nd commit new line.
 	// 3rd commit new line.
-	// 4th commit
-	return Response.ok("ping successfull....!").build();
-}
-
-@GET
-public Response 4thCommit(){	
 	return Response.ok("ping successfull....!").build();
 }
