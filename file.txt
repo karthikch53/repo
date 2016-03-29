@@ -1,5 +1,6 @@
 @GET
 public Response ping(){
 	//	2nd commit new line.
+	// 3rd commit new line.
 	return Response.ok("ping successfull....!").build();
 }
