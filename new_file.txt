@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 @GET
 public Response ping(){
 	// 2nd commit
 	// 3rd commit
 	return Response.ok("ping successfull....!").build();
 }
+=======
+>>>>>>> parent of 0bb38de... 1st commit
